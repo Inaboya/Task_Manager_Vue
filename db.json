@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "text": "Learning React Native and Vue",
+      "day": "15th March 2022 at 3:00pm",
+      "reminder": false,
+      "completed": true,
+      "id": 1
+    },
+    {
+      "text": "Learning React Native",
+      "day": "15th March 2022",
+      "reminder": false,
+      "completed": false,
+      "id": 2
+    }
+  ]
+}
